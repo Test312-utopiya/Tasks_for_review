@@ -57,6 +57,7 @@ carefully. If you have any doubts, feel free to ask any of the [mentors](#help).
 - [Cyber-security](./Cybersecurity/README.md)
 - [Game Development](./Game%20Development/README.md)
 - [Web Development](./Web%20Development/README.md)
+- [Hardware and Iot](./Hardware/Hardware_and_iot.md)
 
 ## Help
 
