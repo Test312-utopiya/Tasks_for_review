@@ -38,9 +38,6 @@ A secret message is concealed within a sequence of LED blinks. Your mission: dec
 
 **Objective**: Manage LED brightness using a potentiometer in Tinkercad.
 
-**Instructions**:
-
-You'll be provided with a decoding code to decipher the message hidden within a sequence of LED blinks. 🕵️‍♂️
 
 ### Task 3: Unveiling Arduino Uno's Secrets
 **Difficulty: Easy**
