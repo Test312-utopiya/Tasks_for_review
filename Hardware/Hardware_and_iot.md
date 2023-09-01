@@ -28,7 +28,7 @@ Now, let's dive into the captivating tasks that await you in the dynamic world o
 
 **Instructions**:
 
-A secret message is concealed within a sequence of LED blinks. Your mission: decode the message and submit the decoded text. 🕵️‍♂️
+A secret message is concealed within a sequence of LED blinks. Your mission: decode the morse encoded message and submit the decoded text. 🕵️‍♂️
 
 ### Task 2: Brightness Control with a Potentiometer
 **Difficulty: Moderate**
