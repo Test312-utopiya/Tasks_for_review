@@ -17,6 +17,9 @@ Before we dive into the tasks, let's set the stage with some guidelines to ensur
 
 4. **Assistance Awaits**: 🤝 Don't hesitate to reach out for help or guidance whenever you face challenges during the tasks. Your fellow participants and experienced mentors in IoT hardware are here to support you.
 
+5. **Join Our Discord Community**: For real-time Q&A, discussions, and community support, [join our Discord channel here](https://discord.gg/PPTjzz32).
+   - Please note that Q&A for hardware and IoT will be exclusively via Discord.
+
 Now, let's dive into the captivating tasks that await you in the dynamic world of IoT hardware and IoT! 🚀
 
 ## IoT Hardware Tasks
