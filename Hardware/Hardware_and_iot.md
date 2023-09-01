@@ -49,7 +49,7 @@ You'll be provided with a decoding code to decipher the message hidden within a 
 
 **Instructions**:
 
-Dive into hands-on exploration with an [Arduino Uno](#). Understand the core functions of each port, document your discoveries, and share your insights. 🧐
+Dive into hands-on exploration with an Arduino Uno. Understand the core functions of each port, document your discoveries, and share your insights. 🧐
 
 ### Task 4: Analog vs. Digital Signals Demystified
 **Difficulty: Easy**
